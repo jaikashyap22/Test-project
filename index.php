@@ -3,5 +3,6 @@
 
 echo "Hellow World";
 
+exit;
 
 ?>
